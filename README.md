@@ -34,7 +34,7 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 - Measured the betweenness, centrality, diameter, and degree using igraph library.
 - Network visualizations were created using ggplot2
 - Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
-- Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.<br/>
+- Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
 
 <br/>
 ## [Data Visualization Project](https://csklaver.github.io/DATS6401-Individual-Project/)
