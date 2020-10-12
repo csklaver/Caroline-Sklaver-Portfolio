@@ -1,6 +1,6 @@
 # **George Washington Univeristy** - Data Science
 
-&nbsp
+&nbsp;
 ## [Capstone Project](https://github.com/csklaver/Capstone-Group6)
 ### *Feature Engineering and Missing Value Imputation Methods for Classification of Depression with Deep Neural Networks*
 > PyCharm, Jupyter Notebook, NumPy, Pandas, scikit-learn, Keras, Matplotlib, Seaborn, Tableau
@@ -44,7 +44,8 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 - This projet explores the healthcare, education, and military spending of some of the top countries in the world. This includes 15 of the G-20 countries from 2013 to 2018.
 - Utilizing Google API Charts, I explore trends over time and compare spending across top countries.<br/>
 
-&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 # **Princeton Univeristy** - Ecology & Evolutionary Biology
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
