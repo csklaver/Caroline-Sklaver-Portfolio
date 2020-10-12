@@ -9,8 +9,8 @@ This project explores missing value imputation methods, resampling techniques, f
 ### [*Kiva Crowdfunding: A Machine Learning Analysis*](https://github.com/csklaver/ML_Kiva_Crowdfunding)
 
 
-## [Data Mining Final Project](https://github.com/csklaver/Data-Mining_GUI-Analysis)
-### *Analysis of London Bike Share Usage - A Graphical User Interface*
+## Data Mining Final Project
+### [*Analysis of London Bike Share Usage - A Graphical User Interface*](https://github.com/csklaver/Data-Mining_GUI-Analysis)
 The purpose of this project is to perform EDA and machine learning algorithms to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. We also include a GUI portion for users to run through EDA, Linear Regressions, and Multiple Linear Regressions with this dataset.
 
 
