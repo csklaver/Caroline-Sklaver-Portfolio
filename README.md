@@ -16,7 +16,7 @@ This project explores missing value imputation methods, resampling techniques, f
 ### *Kiva Crowdfunding: A Machine Learning Analysis*
 > Google Colab, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
 
-*Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Support Vector Machines
+*Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Support Vector Machines*
 
 
 &nbsp;
