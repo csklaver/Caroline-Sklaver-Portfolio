@@ -27,6 +27,11 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 - Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
 - Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
 
+## [Data Visualization Project](https://csklaver.github.io/DATS6401-Individual-Project/) | HTML, CSS
+### *Top Country Health, Education, and Military Spending: A Visual Analysis*
+- This projet explores the healthcare, education, and military spending of some of the top countries in the world. This includes 15 of the G-20 countries from 2013 to 2018.
+- Utilizing Google API Charts, I explore trends over time and compare spending across top countries.
+
 
 
 # Princeton Univeristy - Ecology & Evolutionary Biology
