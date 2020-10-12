@@ -14,8 +14,9 @@ This project explores missing value imputation methods, resampling techniques, f
 &nbsp;
 ## [Machine Learning Project](https://github.com/csklaver/ML_Kiva_Crowdfunding)
 ### *Kiva Crowdfunding: A Machine Learning Analysis*
-> Google Colaboratory (Jupyter Notebook), NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
+> Google Colab, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
 
+*Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Support Vector Machines
 
 
 &nbsp;
@@ -25,12 +26,16 @@ This project explores missing value imputation methods, resampling techniques, f
 
 The purpose of this project is to perform EDA and machine learning algorithms to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. We also include a GUI portion for users to run through EDA, Linear Regressions, and Multiple Linear Regressions with this dataset.
 
+*Muliple Linear Regressions, Correlations*
+
 &nbsp;
 ## [Natural Language Processing Project](https://github.com/csklaver/NLP_The-2020-Presidential-Race)
 ### *The 2020 Presidential Race: NLP and Sentiment Analysis of Online News Articles*
 > Jupyter Notebook, Pandas, NLTK, SpaCy, Genism, Textacy, scikit-learn
 
 The aim of this project was to determine the sentiment of top online news outlets towards the top three presidential candidates, Trump, Biden, and Sanders. Calculated term frequencies, TF-IDF scores, and evaluating XGBoost Classification models.
+
+*TF-IDF Scores, Term Frequencies, Extreme Gradient Boosting*
 
 &nbsp;
 ## [Network Data Science Project](https://github.com/csklaver/network_science_flights) 
@@ -42,6 +47,7 @@ The aim of this project was to determine the sentiment of top online news outlet
 - Network visualizations were created using ggplot2
 - Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
 - Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
+
 
 &nbsp;
 ## [Data Visualization Project](https://csklaver.github.io/DATS6401-Individual-Project/)
@@ -57,3 +63,5 @@ The aim of this project was to determine the sentiment of top online news outlet
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
+
+*Principle Component Analysis, Multiple Linear Regression*
