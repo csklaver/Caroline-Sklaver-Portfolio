@@ -1,4 +1,7 @@
+<pre>
 # George Washington Univeristy - Data Science
+
+
 ## [Capstone Project](https://github.com/csklaver/Capstone-Group6)
 ### *Feature Engineering and Missing Value Imputation Methods for Classification of Depression with Deep Neural Networks*
 > PyCharm, Jupyter Notebook, NumPy, Pandas, scikit-learn, Keras, Matplotlib, Seaborn, Tableau
@@ -16,7 +19,6 @@ This project explores missing value imputation methods, resampling techniques, f
 ## [Data Mining Project](https://github.com/csklaver/Data-Mining_GUI-Analysis)
 ### *Analysis of London Bike Share Usage - A Graphical User Interface*
 > PyCharm, NumPy, Pandas, scikit-learn, PyQt5, Matplotlib, Seaborn
-
 The purpose of this project is to perform EDA and machine learning algorithms to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. We also include a GUI portion for users to run through EDA, Linear Regressions, and Multiple Linear Regressions with this dataset.
 
 
@@ -49,4 +51,4 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
-
+</pre>
