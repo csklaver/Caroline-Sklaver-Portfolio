@@ -1,4 +1,3 @@
-<pre>
 # George Washington Univeristy - Data Science
 
 
@@ -35,15 +34,15 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 - Measured the betweenness, centrality, diameter, and degree using igraph library.
 - Network visualizations were created using ggplot2
 - Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
-- Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
+- Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.<br/>
 
-
+<br/>
 ## [Data Visualization Project](https://csklaver.github.io/DATS6401-Individual-Project/)
 ### *Top Country Health, Education, and Military Spending: A Visual Analysis*
 > HTML, CSS, JS, Google API Charts
 
 - This projet explores the healthcare, education, and military spending of some of the top countries in the world. This includes 15 of the G-20 countries from 2013 to 2018.
-- Utilizing Google API Charts, I explore trends over time and compare spending across top countries.
+- Utilizing Google API Charts, I explore trends over time and compare spending across top countries.<br/>
 
 
 
@@ -51,4 +50,3 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
-</pre>
