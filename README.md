@@ -36,7 +36,8 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 - Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
 - Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
 
-<br/>
+\
+\
 ## [Data Visualization Project](https://csklaver.github.io/DATS6401-Individual-Project/)
 ### *Top Country Health, Education, and Military Spending: A Visual Analysis*
 > HTML, CSS, JS, Google API Charts
