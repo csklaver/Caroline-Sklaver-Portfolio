@@ -5,14 +5,16 @@
 ### *Feature Engineering and Missing Value Imputation Methods for Classification of Depression with Deep Neural Networks*
 > PyCharm, Jupyter Notebook, NumPy, Pandas, scikit-learn, Keras, Matplotlib, Seaborn, Tableau
 
-[Exploratory Data Analysis](https://csklaver.github.io/)
+[Exploratory Data Analysis & Trends](https://csklaver.github.io/)
 
-This project explores missing value imputation methods, resampling techniques, feature engineering, and neural networks to predicting depression using NHANES data from 2005 to 2016. Statistical and machine learning imputation methods along with feature engineering techniques can improve classification results of both a deep ANN (DANN) and a multi-layer CNN. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these DNNs with the challenges of a highly imbalanced dataset and a target disease with imprecise causes.
+This project explores missing value imputation methods, resampling techniques, feature engineering, and neural networks to predicting depression using NHANES data from 2005 to 2016. Statistical and machine learning imputation techniques along with feature engineering techniques can improve classification results of both a deep ANN and a multi-layer CNN. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these DNNs with the challenges of a highly imbalanced dataset and a target disease with complex causes.
 
-&nbsp
+&nbsp;
 ## [Machine Learning Project](https://github.com/csklaver/ML_Kiva_Crowdfunding)
 ### *Kiva Crowdfunding: A Machine Learning Analysis*
 > Google Colaboratory (Jupyter Notebook), NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
+
+
 
 &nbsp;
 ## [Data Mining Project](https://github.com/csklaver/Data-Mining_GUI-Analysis)
@@ -25,6 +27,8 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 ## [Natural Language Processing Project](https://github.com/csklaver/NLP_The-2020-Presidential-Race)
 ### *The 2020 Presidential Race: NLP and Sentiment Analysis of Online News Articles*
 > Jupyter Notebook, Pandas, NLTK, SpaCy, Genism, Textacy, scikit-learn
+
+The aim of this project was to determine the sentiment of top online news outlets towards the top three presidential candidates, Trump, Biden, and Sanders. Calculated term frequencies, TF-IDF scores, and evaluating XGBoost Classification models.
 
 &nbsp;
 ## [Network Data Science Project](https://github.com/csklaver/network_science_flights) 
