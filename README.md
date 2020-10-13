@@ -23,7 +23,7 @@ The aim of this project is to apply machine learning methods to gain insight int
 
 &nbsp;
 ## [Data Mining Project](https://github.com/csklaver/Data-Mining_GUI-Analysis)
-### *Analysis of London Bike Share Usage - A Graphical User Interface*
+### *Analysis of London Bike Share Usage: A Graphical User Interface*
 > PyCharm, NumPy, Pandas, scikit-learn, PyQt5, Matplotlib, Seaborn
 
 The purpose of this project is to perform EDA and machine learning algorithms to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. We also include a GUI portion for users to run through EDA, Linear Regressions, and Multiple Linear Regressions with this dataset.
