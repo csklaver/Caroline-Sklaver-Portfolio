@@ -2,9 +2,9 @@
 
 >
 
-## **George Washington Univeristy** - Data Science
+## **George Washington Univeristy** 
+### M.S. Data Science
 
-&nbsp;
 ## [Capstone Project](https://github.com/csklaver/Capstone-Group6)
 ### *Feature Engineering and Missing Value Imputation Methods for Classification of Depression with Deep Neural Networks*
 
@@ -61,9 +61,10 @@ This projet explores the healthcare, education, and military spending of some of
 &nbsp;
 >
 
-## **Princeton Univeristy** - Ecology & Evolutionary Biology
+## **Princeton Univeristy**
+### B.A. Ecology & Evolutionary Biology
 &nbsp;
-## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
+## [Senior Thesis Project](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
 
