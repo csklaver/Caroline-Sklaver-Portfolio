@@ -56,7 +56,9 @@ This projet explores the healthcare, education, and military spending of some of
 
 &nbsp;
 &nbsp;
+&nbsp;
 # **Princeton Univeristy** - Ecology & Evolutionary Biology
+&nbsp;
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
