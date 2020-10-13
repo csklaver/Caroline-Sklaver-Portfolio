@@ -18,7 +18,7 @@ This project explores missing value imputation methods, resampling techniques, f
 
 The aim of this project is to apply machine learning methods to gain insight into how Kiva determines the amount (USD - regression) and repayment interval type (monthly, bullet, or irregular - Classification) of each loan in Latin America. To achieve these goals we will preprocess the data (merging, cleaning, handling identifiers and missing values, etc.), perform exploratory data analyses, split the data into training, validation, and testing sets, chose a variety of algorithms for both regression and classification, and fine-tune the hyperparameters of those models. In classifying repayment interval, we achieved an F1-score of 0.874 with Histogram Gradient Boosting, followed by Random Forest and MLPC. According to our Random Forest Classifier, the top 5 features given in order of importance are: Loan Term (months), Country Colombia, Loan Amount, Agriculture and Livestock Activity, and MPI. In all, our regression models predicting loan amount were weak, thus we cannot make conclusions about the features with respect to loan amount. On the other hand, our classification models were quite accurate in predicting repayment interval type, which may be useful in determining what a borrowers repayment interval should be, given all other factors.
 
-*Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Support Vector Machines*
+*Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Multi-Layer Perceptron*
 
 
 &nbsp;
