@@ -1,15 +1,18 @@
-# **George Washington Univeristy** - Data Science
+# Hi, I'm Caroline! Welcome to my portfolio of Data Science Projects!
+
+>
+
+## **George Washington Univeristy** - Data Science
 
 &nbsp;
 ## [Capstone Project](https://github.com/csklaver/Capstone-Group6)
 ### *Feature Engineering and Missing Value Imputation Methods for Classification of Depression with Deep Neural Networks*
-> PyCharm, Jupyter Notebook, NumPy, Pandas, scikit-learn, Keras, Matplotlib, Seaborn, Tableau
 
 [Exploratory Data Analysis & Trends](https://csklaver.github.io/)
 
 This project explores missing value imputation methods, resampling techniques, feature engineering, and neural networks to predicting depression using NHANES data from 2005 to 2016. Statistical and machine learning imputation techniques along with feature engineering techniques can improve classification results of both a deep ANN and a multi-layer CNN. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these DNNs with the challenges of a highly imbalanced dataset and a target disease with complex causes.
 
-*Feature Engineering, MLP & KNN progressive imputation, Deep Artificial Neural Network, Convolutional Neural Network*
+> PyCharm, Jupyter Notebook, NumPy, Pandas, scikit-learn, Keras, Matplotlib, Seaborn, Tableau, Feature Engineering, MLP & KNN progressive imputation, Deep Artificial Neural Network, Convolutional Neural Network
 
 &nbsp;
 ## [Machine Learning Project](https://github.com/csklaver/ML_Kiva_Crowdfunding)
@@ -56,8 +59,9 @@ This projet explores the healthcare, education, and military spending of some of
 
 &nbsp;
 &nbsp;
-&nbsp;
-# **Princeton Univeristy** - Ecology & Evolutionary Biology
+>
+
+## **Princeton Univeristy** - Ecology & Evolutionary Biology
 &nbsp;
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
