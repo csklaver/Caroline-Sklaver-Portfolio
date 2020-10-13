@@ -61,6 +61,6 @@ This projet explores the healthcare, education, and military spending of some of
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
 
-The goal of this project is to identify the socio-economic and cultural factors driving global antibiotic consumption. Evaluate the relative influence of these factors on consumption of various antibiotic classes in high-income vs. low- and middle-income countries.
+The goal of this project is to identify the socio-economic and cultural factors driving global antibiotic consumption. Data on total antibiotic consumption and consumption by class was provided by the Center for Disease Dynamics, Economics & Policy, while most other variables were obtained from the World Development Indicators in the World Bank Databank. To analyze the data, I used principle component analysis biplots, variance inflation factors, and multiple linear regressions. In low- and middle-income countries, the use of basic sanitation facilities and the density of pharmaceutical personnel were found to have significant negative correlations to antibiotic consumption across classes. In high-income countries, the use of basic sanitation facilities, the density of pharmaceutical personnel, and primary school completion rates were found to have significant positive correlations to antibiotic consumption across classes.
 
-*Principle Component Analysis, Multiple Linear Regression*
+*Principle Component Analysis, Variance Inflation Factors, Multiple Linear Regression*
