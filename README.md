@@ -35,9 +35,9 @@ The purpose of this project is to perform EDA and machine learning algorithms to
 ### *The 2020 Presidential Race: NLP and Sentiment Analysis of Online News Articles*
 > Jupyter Notebook, Pandas, NLTK, SpaCy, Genism, Textacy, scikit-learn
 
-The aim of this project was to determine the sentiment of top online news outlets towards the top three presidential candidates, Trump, Biden, and Sanders. Calculated term frequencies, TF-IDF scores, and evaluating XGBoost Classification models.
+The aim of this project was to determine the sentiment of top online news outlets towards the top three presidential candidates, Trump, Biden, and Sanders. Pre-processed text by tokenizing, lemmatizing, and removing stop words. Examined term frequenices and TF-IDF scores for each candidate and each news outlet. Lastly, we developed and evaluated SVM and XGBoost classification models with varying weights (binary word count, term frequency, and TF-IDF score) and n-grams (unigram, bigram, and trigram). The best configuration was achieved using SVM using unigrams and TF-IDF scores as weights.
 
-*TF-IDF Scores, Term Frequencies, Extreme Gradient Boosting*
+*Term Frequencies, TF-IDF Scores, Extreme Gradient Boosting, Support Vector Machines*
 
 &nbsp;
 ## [Network Data Science Project](https://github.com/csklaver/network_science_flights) 
@@ -60,5 +60,7 @@ This projet explores the healthcare, education, and military spending of some of
 ## [Senior Thesis](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
 > RStudio, stats, ggbiplot, ggplot2, plotly, stargazer
+
+The goal of this project is to identify the socio-economic and cultural factors driving global antibiotic consumption. Evaluate the relative influence of these factors on consumption of various antibiotic classes in high-income vs. low- and middle-income countries.
 
 *Principle Component Analysis, Multiple Linear Regression*
