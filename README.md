@@ -44,11 +44,7 @@ The aim of this project was to determine the sentiment of top online news outlet
 ### *Making Connections: An Analysis of US Commercial Aviation Networks*
 > RStudio, dplyr, igraph, ggplot2
 
-- Exploration and analysis of the US commercial airline transportation networks from 1998 to 2018.
-- Measured the betweenness, centrality, diameter, and degree using igraph library.
-- Network visualizations were created using ggplot2
-- Case study of Southwest Airlines and Delta revealed the differences in growth strategies.
-- Found the network to be robust when removing hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
+Explored and analyzed the US commercial airline transportation networks from 1998 to 2018 measured by betweenness, centrality, diameter, and degree. Created maps and vizualizations of the network nodes and edges. Conducted a case study of Southwest Airlines and Delta which revealed the differences in growth strategies; Southwest focusing on including more airports increasing betweenness and Delta focusing on growing degree of major hubs. Lastly, we found the total network to be robust when removing 20 major hubs (in the case of COVID-19), but unable to handle the same volume of passengers.
 
 
 &nbsp;
@@ -56,8 +52,7 @@ The aim of this project was to determine the sentiment of top online news outlet
 ### *Top Country Health, Education, and Military Spending: A Visual Analysis*
 > HTML, CSS, JS, Google API Charts
 
-- This projet explores the healthcare, education, and military spending of some of the top countries in the world. This includes 15 of the G-20 countries from 2013 to 2018.
-- Utilizing Google API Charts, I explore trends over time and compare spending across top countries.<br/>
+This projet explores the healthcare, education, and military spending of some of the top countries in the world. This includes 15 of the G-20 countries from 2013 to 2018. Utilizing Google API Charts, I explore trends over time and compare spending across top countries.<br/>
 
 &nbsp;
 &nbsp;
