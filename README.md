@@ -1,6 +1,6 @@
 ### Hi, I'm Caroline! Welcome to my portfolio of Data Science Projects. For work opportunities please contact me at [carolinesklaver@gmail.com](carolinesklaver@gmail.com) and feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/csklaver).
 
->
+>  
 
 # **George Washington Univeristy** 
 ## M.S. Data Science
