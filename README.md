@@ -14,7 +14,7 @@
 
 [Exploratory Data Analysis & Trends](https://csklaver.github.io/)
 
-This project explores missing value imputation methods, resampling techniques, feature engineering, and artificial neural networks (ANN) to predict depression using National Health and Nutrition Examination Survey (NHANES) data from 2005 to 2016. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these deep ANNs with the challenges of a highly imbalanced dataset and a target disease with complex causes. Progressive machine learning imputation along with feature engineering techniques were proven to enhance depression classification results of a multi-layer convolutional neural network (CNN) by 10% measured by F1-Scores. 
+This project explores missing value imputation methods, resampling techniques, feature engineering, and artificial neural networks (ANN) to predict depression using National Health and Nutrition Examination Survey (NHANES) data from 2005 to 2016. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of deep ANNs with the challenges of this highly imbalanced dataset and a target disease with complex causes. Progressive machine learning imputation along with feature engineering techniques were proven to enhance classification results of a multi-layer convolutional neural network (CNN) by 10% measured by F1-Scores. 
 
 *Feature Engineering, MLP & KNN progressive imputation, Deep Artificial Neural Network, Convolutional Neural Network*
 
@@ -23,17 +23,17 @@ This project explores missing value imputation methods, resampling techniques, f
 ### *Kiva Crowdfunding: A Machine Learning Analysis*
 > Google Colab, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn 
 
-The aim of this project is to apply machine learning methods to gain insight into how Kiva determines the amount (USD - regression) and repayment interval type (monthly, bullet, or irregular - Classification) of each loan in Latin America. To achieve these goals we will preprocess the data (merging, cleaning, handling identifiers and missing values, etc.), perform exploratory data analyses, split the data into training, validation, and testing sets, chose a variety of algorithms for both regression and classification, and fine-tune the hyperparameters of those models. In classifying repayment interval, we achieved an F1-score of 0.874 with Histogram Gradient Boosting, followed by Random Forest and MLPC. According to our Random Forest Classifier, the top 5 features given in order of importance are: Loan Term (months), Country Colombia, Loan Amount, Agriculture and Livestock Activity, and MPI. In all, our regression models predicting loan amount were weak, thus we cannot make conclusions about the features with respect to loan amount. On the other hand, our classification models were quite accurate in predicting repayment interval type, which may be useful in determining what a borrowers repayment interval should be, given all other factors.
+The aim of this project is to apply machine learning methods to gain insight into how Kiva determines the amount (USD - Regression) and repayment interval type (monthly, bullet, or irregular - Classification) of loans in Latin America. To achieve these goals we preprocessed and cleaned the data, performed exploratory data analyses, split the data into training and testing, implemented multiple machine learning algorithms, and fine-tune the hyperparameters using GridSearchCV. In classifying repayment interval, we achieved an F1-score of 0.874 with Histogram Gradient Boosting, followed by Random Forest and MLPC. According to our Random Forest Classifier, the top 5 features given in order of importance were: Loan Term (months), Country Colombia, Loan Amount, Agriculture and Livestock Activity, and Multidimensional Poverty Index. In all, our regression models predicting loan amount were weak, thus we cannot make conclusions about the features with respect to loan amount. On the other hand, our classification models were quite accurate in predicting repayment interval type, which may be useful in determining what a borrowers repayment interval should be, given all other factors.
 
 *Multiple Linear Regression, Logistic Regression, Decision Trees, Random Forests, Extreme Gradient Boosting, Histogram Gradient Boosting, Multi-Layer Perceptron*
 
 
 &nbsp;
 ## [Data Mining Project](https://github.com/csklaver/Data-Mining_GUI-Analysis)
-### *Analysis of London Bike Share Usage: A Graphical User Interface*
+### *Analysis of London Bike Share Usage: A Graphical User Interface (GUI)*
 > PyCharm, NumPy, Pandas, scikit-learn, PyQt5, Matplotlib, Seaborn
 
-The purpose of this project is to perform EDA and machine learning algorithms to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. We also include a GUI portion for users to run through EDA, Linear Regressions, and Multiple Linear Regressions with this dataset.
+The purpose of this project is to perform EDA and regression analysis to predict 2015 London bike share activity. This project includes python script to preprocess and export the cleaned data, as well as create visualizations for our final presentation. These visualizations are presented in GUI for users to chose variables to include in Correlation matricies, Linear Regressions, and Multiple Linear Regressions with this dataset.
 
 *Muliple Linear Regressions, Correlations*
 
