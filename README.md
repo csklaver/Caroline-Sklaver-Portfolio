@@ -14,7 +14,7 @@
 
 [Exploratory Data Analysis & Trends](https://csklaver.github.io/)
 
-This project explores missing value imputation methods, resampling techniques, feature engineering, and neural networks to predicting depression using NHANES data from 2005 to 2016. Statistical and machine learning imputation techniques along with feature engineering techniques can improve classification results of both a deep ANN and a multi-layer CNN. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these DNNs with the challenges of a highly imbalanced dataset and a target disease with complex causes.
+This project explores missing value imputation methods, resampling techniques, feature engineering, and artificial neural networks (ANN) to predict depression using National Health and Nutrition Examination Survey (NHANES) data from 2005 to 2016. NHANES data is highly imbalanced with respect to depression (7.49% positive class) and contains many missing values. The primary goal of this project is to identify the best imputation and feature engineering methods to optimize classification ability of these deep ANNs with the challenges of a highly imbalanced dataset and a target disease with complex causes. Progressive machine learning imputation along with feature engineering techniques were proven to enhance depression classification results of a multi-layer convolutional neural network (CNN) by 10% measured by F1-Scores. 
 
 *Feature Engineering, MLP & KNN progressive imputation, Deep Artificial Neural Network, Convolutional Neural Network*
 
