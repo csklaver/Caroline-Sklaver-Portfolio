@@ -1,6 +1,7 @@
 ### Hi, I'm Caroline! Welcome to my portfolio of Data Science Projects. For work opportunities please contact me at [carolinesklaver@gmail.com](carolinesklaver@gmail.com) and feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/csklaver).
 
 >  
+&nbsp;
 
 # **George Washington Univeristy** 
 ## M.S. Data Science
@@ -65,8 +66,8 @@ This projet explores the healthcare, education, and military spending of some of
 &nbsp;
 >
 
-## **Princeton Univeristy**
-### B.A. Ecology & Evolutionary Biology
+# **Princeton Univeristy**
+## B.A. Ecology & Evolutionary Biology
 &nbsp;
 ## [Senior Thesis Project](https://github.com/csklaver/Princeton_Thesis)
 ### *The Major Factors Driving Global Antibiotic Consumption: A Quantitative Analysis of the Leading Determinants from 2000 to 2015*
